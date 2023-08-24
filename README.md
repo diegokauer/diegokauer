@@ -1,13 +1,13 @@
-![Welcome Banner](banner.gif)
+![Welcome Banner](banner.png)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Diego Kauer </h1>
 
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
+<!-- <img align="left" height="270px" alt="hello_world" src="pic.png" /> -->
 
 <h3> About Me </h3>
 
-I am a masters student in Data Science [@Unversidad de Chile](https://mds.uchile.cl/). I'm interested in machine learning and healthcare analytics.
+I am a masters student in Data Science [@Unversidad de Chile](https://mds.uchile.cl/). I'm interested in Machine Learning, Operations Research and healthcare analytics.
 
 - :heart: My favorite language: Python
 - 🌱 I’m currently learning: MLOps and Reinforcement Learning

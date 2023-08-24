@@ -7,7 +7,7 @@
 
 <h3> About Me </h3>
 
-I am a masters student in Data Science [@Unversidad de Chile](https://mds.uchile.cl/). I'm interested in Machine Learning, Operations Research and healthcare analytics.
+I am a masters student in Data Science [@Unversidad de Chile](https://mds.uchile.cl/). I'm interested in Machine Learning, Operations Research and Healthcare Analytics.
 
 - :heart: My favorite language: Python
 - 🌱 I’m currently learning: MLOps and Reinforcement Learning
